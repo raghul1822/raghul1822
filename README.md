@@ -1,30 +1,26 @@
-````markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:9333EA&text=Raghul%20A&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=AI%20Engineer%20•%20Generative%20AI%20Developer%20•%20LLM%20Engineer&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=AI+Engineer;Generative+AI+Developer;LLM+Applications+Builder;RAG+Systems+Developer;Multi-Agent+AI+Architect;Python+Backend+Engineer"/>
-</p>
-
-<p align="center">
-  <a href="mailto:raghul182202@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   <a href="mailto:raghul182202@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/raghul-ai-python/">
-    <img src="https://img.shields.io/badge/LinkedIn-Raghul_A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  <a href="https://leetcode.com/u/Raghul1802/">
-    <img src="https://img.shields.io/badge/LeetCode-Raghul1802-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://github.com/raghul1822">
-    <img src="https://img.shields.io/badge/GitHub-raghul1822-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raghul1822&label=PROFILE+VIEWS&style=for-the-badge&color=7C3AED"/>
-  <img src="https://img.shields.io/github/followers/raghul1822?style=for-the-badge&color=7C3AED"/>
+  <a href="https://github.com/raghul1822">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/Raghul1802/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
+  </a>
 </p>
 
 ---
@@ -109,7 +105,6 @@ I specialize in developing scalable AI applications that combine reasoning, retr
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
----
 
 # Featured Projects
 
@@ -191,7 +186,7 @@ Collaborative AI agents designed to perform planning, research, retrieval, and e
 
 # Current Focus
 
-```yaml
+yaml
 Learning:
   - Agentic AI
   - LangGraph
@@ -215,12 +210,9 @@ Open To:
   - Open Source Collaboration
   - Freelance AI Projects
   - Research Opportunities
-````
 
----
 
 # Coding Profiles
-
 <p align="center">
 
 <a href="https://leetcode.com/u/Raghul1802/">
@@ -239,8 +231,31 @@ Open To:
 
 ---
 
-# GitHub Analytics
+# Connect
+<p align="center">
+  <a href="mailto:raghul182202@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <a href="https://www.linkedin.com/in/raghul-ai-python/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/raghul1822">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/Raghul1802/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
+  </a>
+</p>
+
+---
+
+# GitHub Analytics
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raghul1822&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -254,7 +269,6 @@ Open To:
 ---
 
 # Contribution Activity
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghul1822&theme=tokyo-night&hide_border=true"/>
 </p>
@@ -262,30 +276,8 @@ Open To:
 ---
 
 # Contribution Snake
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
-
-# Connect
-
-📧 Email: [raghul182202@gmail.com](mailto:raghul182202@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/raghul-ai-python/
-
-🏆 LeetCode: https://leetcode.com/u/Raghul1802/
-
-💻 GitHub: https://github.com/raghul1822
-
----
-
-<p align="center">
-  <i>"Building intelligent systems that transform ideas into real-world impact."</i>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
-</p>
-```
+--- Make Proper Arrangement and Give Full Readme File  

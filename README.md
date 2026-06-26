@@ -96,13 +96,15 @@ I'm focused on Generative AI & LLM product development — currently working tow
 
 ## Data Science
 
-<p>
-<img src="https://skillicons.dev/icons?i=anaconda" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<p a>
+  <img src="https://skillicons.dev/icons?i=anaconda" height="50" alt="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+       height="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+       height="50" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
+       height="50" alt="Matplotlib"/>
 </p>
-
 
 # Featured Projects
 
@@ -208,24 +210,6 @@ Open To:
 - Open Source Collaboration
 - Mentorship & Learning Opportunities
 - Research Collaborations
-
-
-# Coding Profiles
-<p align="center">
-
-<a href="https://leetcode.com/u/Raghul1802/">
-<img src="https://img.shields.io/badge/LeetCode-Raghul1802-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/raghul-ai-python/">
-<img src="https://img.shields.io/badge/LinkedIn-Raghul_A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/raghul1822">
-<img src="https://img.shields.io/badge/GitHub-raghul1822-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 

@@ -106,10 +106,10 @@ I'm focused on Generative AI & LLM product development — currently working tow
        height="50" alt="Matplotlib"/>
 </p>
 
-# Featured Projects
-
-<details>
-<summary><b>🏨 Hotel Management System</b></summary>
+## Design & Visualization
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
 ### Overview
 

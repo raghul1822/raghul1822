@@ -268,7 +268,7 @@ Open To:
 ---
 
 <p align="center">
-  <strong> Python Developer | AI Enthusiast | Always Learning • Always Building</strong>
+  <strong> Python Developer | AI Enthusiast | Always Learning • Always Building </strong>
 </p>
 
 ---

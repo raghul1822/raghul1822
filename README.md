@@ -96,7 +96,7 @@ I'm focused on Generative AI & LLM product development — currently working tow
 
 ## Data Science
 
-<p a>
+<p>
   <img src="https://skillicons.dev/icons?i=anaconda" height="50" alt="Anaconda"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
        height="50" alt="Pandas"/>
@@ -110,6 +110,13 @@ I'm focused on Generative AI & LLM product development — currently working tow
 <p>
 <img src="https://skillicons.dev/icons?i=figma" />
 </p>
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>Hotel Management System</b></summary>
 
 ### Overview
 
@@ -131,54 +138,87 @@ Business management solution designed to automate hotel operations, customer rec
 - Check-In & Check-Out Tracking
 - Administrative Dashboard
 
-</details>
-
-<details>
-<summary><b>🤖 AI Knowledge Assistant</b></summary>
-
-### Overview
-
-RAG-powered AI assistant capable of retrieving information from custom knowledge bases and generating context-aware responses.
-
-| Category | Details |
-|-----------|---------|
-| Stack | Python, LangChain |
-| AI Model | LLM |
-| Retrieval | Vector Search |
-| Architecture | RAG Pipeline |
-| Impact | Knowledge Automation |
-
-### Features
-
-- Semantic Search
-- Context Retrieval
-- LLM Response Generation
-- Custom Knowledge Base Integration
+🔗 [View Repository](https://github.com/raghul1822/Hotel_Management_System_Python)
 
 </details>
 
 <details>
-<summary><b>🧠 Multi-Agent AI System</b></summary>
+<summary><b>Customer Churn Prediction</b></summary>
 
 ### Overview
 
-Collaborative AI agents designed to perform planning, research, retrieval, and execution tasks autonomously.
+AI-powered churn prediction system that analyzes customer data to identify at-risk customers and support data-driven retention strategies.
 
 | Category | Details |
 |-----------|---------|
-| Stack | LangGraph, LangChain |
-| Architecture | Multi-Agent |
-| Workflow | Agent Orchestration |
-| Intelligence | Autonomous Decision Making |
-| Impact | Process Automation |
+| Stack | Python, Scikit-learn, Pandas, Streamlit |
+| AI Model | Machine Learning Classification |
+| Interface | Streamlit App |
+| Architecture | ML Pipeline |
+| Impact | Customer Retention Insights |
 
 ### Features
 
-- Agent Communication
-- Memory Management
-- Task Planning
-- Tool Calling
-- Workflow Coordination
+- Customer Data Analysis
+- Churn Risk Scoring
+- Interactive Streamlit Dashboard
+- Model Training & Evaluation
+- Data-Driven Retention Insights
+
+🔗 [View Repository](https://github.com/raghul1822/Customer-Churn-Prediction)
+
+</details>
+
+<details>
+<summary><b>AI Language Translation Tool</b></summary>
+
+### Overview
+
+Full-stack multilingual translation web app with automatic language detection and speech-based interaction.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Python, Flask, JavaScript, CSS |
+| Architecture | Full-Stack Web App |
+| Capabilities | Speech-to-Text, Text Translation |
+| Interface | Web-Based UI |
+| Impact | Multilingual Communication |
+
+### Features
+
+- Automatic Language Detection
+- Speech-to-Text Input
+- Multilingual Text Translation
+- Web-Based Interface
+- Flask REST Backend
+
+🔗 [View Repository](https://github.com/raghul1822/Language_Translation_Tool)
+
+</details>
+
+<details>
+<summary><b>Expense Tracker (Python UI)</b></summary>
+
+### Overview
+
+Beginner-friendly expense tracking application built with Object-Oriented Python to practice core programming concepts.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Python |
+| Architecture | OOP Design |
+| Focus | Core Python Concepts |
+| Interface | UI-Based Tracker |
+| Impact | Personal Finance Tracking |
+
+### Features
+
+- Expense Logging
+- Category-Based Tracking
+- Class-Based Data Handling
+- Simple, Beginner-Friendly UI
+
+🔗 [View Repository](https://github.com/raghul1822/Expense_Tracking_Python-Ui)
 
 </details>
 
@@ -186,7 +226,7 @@ Collaborative AI agents designed to perform planning, research, retrieval, and e
 
 # Current Focus
 
-yaml
+```yaml
 Learning:
   - Agentic AI
   - LangGraph
@@ -195,10 +235,10 @@ Learning:
   - MLOps
 
 Building:
-- RAG-based AI Assistants
-- Multi-Agent Systems
-- Fine-Tuned LLM Experiments
-- Hotel Management Platform
+  - RAG-based AI Assistants
+  - Multi-Agent Systems
+  - Fine-Tuned LLM Experiments
+  - Hotel Management Platform
 
 Exploring:
   - Open Source LLMs
@@ -206,10 +246,11 @@ Exploring:
   - Production AI Systems
 
 Open To:
-- AI Engineering Internships
-- Open Source Collaboration
-- Mentorship & Learning Opportunities
-- Research Collaborations
+  - AI Engineering Internships
+  - Open Source Collaboration
+  - Mentorship & Learning Opportunities
+  - Research Collaborations
+```
 
 ---
 

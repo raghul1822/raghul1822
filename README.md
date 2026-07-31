@@ -280,13 +280,6 @@ Open To:
 
 # GitHub Analytics
 <p align="center">
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api?username=raghul1822&show_icons=true&theme=tokyonight&hide_border=true&height=200" />
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghul1822&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&height=200" />
-</p>
-
-<p align="center">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=raghul1822&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -313,3 +306,4 @@ Open To:
 </p>
 
 ---
+Analysis and Color Optimization for this Make Proper flow and design

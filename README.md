@@ -33,14 +33,29 @@ I'm focused on Generative AI & LLM product development — currently working tow
 
 ### Focus Areas
 
-- Generative AI Applications
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Multi-Agent Systems
-- Agentic AI Workflows
-- AI Automation
-- Machine Learning Engineering
-- Python Backend Development
+<table width="100%">
+  <tr>
+    <td width="40%">
+      <ul>
+        <li>Generative AI Applications</li>
+        <li>Large Language Models (LLMs)</li>
+        <li>Retrieval-Augmented Generation (RAG)</li>
+        <li>Multi-Agent Systems</li>
+        <li>Agentic AI Workflows</li>
+        <li>AI Automation</li>
+        <li>Machine Learning Engineering</li>
+        <li>Python Backend Development</li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+    <img width="250" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" />
+    </td>
+    <td width="30%" align="center">
+      <!-- Swap this with your AI GIF if you want! -->
+      <img width="250" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" />
+    </td>
+  </tr>
+</table>
 
 ---
 

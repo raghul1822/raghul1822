@@ -321,4 +321,7 @@ Open To:
 </p>
 
 ---
+
 Analysis and Color Optimization for this Make Proper flow and design
+
+---

@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:9333EA&text=Raghul%20A&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Aspiring%20AI%20Engineer%20%7C%20Generative%20AI%20%7C%20LLM%20Applications&descAlignY=60" alt="Raghul A Banner"/>
 </p>

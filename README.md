@@ -308,14 +308,6 @@ Open To:
 
 ---
 
-# Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghul1822&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
 <p align="center">
   <strong> Python Developer | AI Enthusiast | Always Learning • Always Building </strong>
 </p>
